@@ -1,0 +1,5 @@
+/.idea/
+env
+.dockerignore
+Dockerfile
+Dockerfile.prod
